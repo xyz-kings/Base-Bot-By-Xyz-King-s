@@ -1,0 +1,27 @@
+{
+  "prefix": ".",
+  "ownerNumber": "628xxxx",
+  "botName": "KingsBot",
+  "author": "Xyz-King's",
+  "version": "1.0.0",
+  "socialMedia": {
+    "whatsapp": "628xxxx",
+    "youtube": "https://youtube.com/@ZVexDev",
+    "github": "https://github.com/ZVex-Dev"
+  },
+  "greetings": {
+    "morning": "Selamat Pagi",
+    "afternoon": "Selamat Siang",
+    "evening": "Selamat Sore",
+    "night": "Selamat Malam",
+    "dawn": "Selamat Subuh"
+  },
+  "messages": {
+    "success": "Berhasil menjalankan perintah!",
+    "error": "Maaf, terjadi kesalahan. Silakan coba lagi atau hubungi owner.",
+    "ownerOnly": "Perintah ini hanya untuk owner!",
+    "groupOnly": "Perintah ini hanya bisa digunakan di grup!",
+    "publicMode": "Public",
+    "selfMode": "Self"
+  }
+}
